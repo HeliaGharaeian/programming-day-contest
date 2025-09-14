@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("programming-day-contest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2cc1094f9e78da03255d487b205807db5aa260d")]
 [assembly: System.Reflection.AssemblyProductAttribute("programming-day-contest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("programming-day-contest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
