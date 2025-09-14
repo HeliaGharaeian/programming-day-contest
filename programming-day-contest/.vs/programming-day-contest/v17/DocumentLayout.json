@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\r.roshan\\Desktop\\programming-day-contest\\programming-day-contest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67F078B1-010E-4BC6-9480-11581CAB8610}|contest-v2\\contest-v2.csproj|c:\\users\\r.roshan\\desktop\\programming-day-contest\\programming-day-contest\\contest-v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F078B1-010E-4BC6-9480-11581CAB8610}|contest-v2\\contest-v2.csproj|solutionrelative:contest-v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{68D5EDFD-7422-43E4-82FA-31A66ACFD444}|programming-day-contest\\programming-day-contest.csproj|c:\\users\\r.roshan\\desktop\\programming-day-contest\\programming-day-contest\\programming-day-contest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68D5EDFD-7422-43E4-82FA-31A66ACFD444}|programming-day-contest\\programming-day-contest.csproj|solutionrelative:programming-day-contest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -220,11 +224,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\r.roshan\\Desktop\\programming-day-contest\\programming-day-contest\\contest-v2\\Program.cs",
+              "RelativeDocumentMoniker": "contest-v2\\Program.cs",
+              "ToolTip": "C:\\Users\\r.roshan\\Desktop\\programming-day-contest\\programming-day-contest\\contest-v2\\Program.cs",
+              "RelativeToolTip": "contest-v2\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA5wEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:22:32.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\r.roshan\\Desktop\\programming-day-contest\\programming-day-contest\\programming-day-contest\\Program.cs",
               "RelativeDocumentMoniker": "programming-day-contest\\Program.cs",
               "ToolTip": "C:\\Users\\r.roshan\\Desktop\\programming-day-contest\\programming-day-contest\\programming-day-contest\\Program.cs",
               "RelativeToolTip": "programming-day-contest\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T10:28:02.848Z",
               "EditorCaption": ""
